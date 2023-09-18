@@ -45,3 +45,4 @@ I used a based approach to communicate between controllers, this decouples depen
 
 ![image](https://github.com/VladimirStefaniuk/KatamaryDamacy/assets/10983669/7042acb6-9837-4b93-983a-609faaccfade)
 
+Code can be found in this folder: https://github.com/VladimirStefaniuk/KatamaryDamacy/tree/main/Assets/Scripts
